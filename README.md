@@ -128,5 +128,4 @@ This project is open source and available under the MIT License.
 ### 👨‍💻 Author
 Built by Umesh Samartapu
 
-Let me know if you want to auto-generate badges (like build status, license, or tech stack) or deploy instructions for Render, Netlify, or Vercel!
 
